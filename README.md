@@ -1,1 +1,3 @@
 # static-bot
+
+- Test commit
