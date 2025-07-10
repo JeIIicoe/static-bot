@@ -1,0 +1,4 @@
+.env
+venv
+commands/tests/_pycache_
+data
