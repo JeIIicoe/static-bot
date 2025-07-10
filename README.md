@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="200"/>
+</p>
+
 ## The Static CEO
 
-A personalised static organisation bot for Discord, written in Python using [`discord.py`](https://discordpy.readthedocs.io/en/stable/). Currently supports slash commands like `/ping` and `/hello`.
+A personalised static organisation bot for Discord, written in Python using [`discord.py`](https://discordpy.readthedocs.io/en/stable/). Currently supports slash commands like `/hello`, `/register` and `/whoami`.
 
 ---
 
@@ -95,6 +99,10 @@ Once the virtual environment is set up:
 
 ### Current Slash Commands
 
+### Current Slash Commands
+
 * `/hello` – Responds with a random greeting
+* `/register` – Register your character with job and FFLogs link
+* `/whoami` – Show your FFLogs profile, including current, previous savage, and ultimate parses
 
 ---
