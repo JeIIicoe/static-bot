@@ -1,5 +1,9 @@
-## 0.0.2
+# 0.1.1
 ### Added
+- Initial framework of working /vodeday command
+
+## 0.1.0
+### Aded
 - Register slash command to save user char
 
 ## 0.0.2
